@@ -1,0 +1,18 @@
+# Saad Kazi
+
+> Personal Link Hub & Professional Identity
+
+## Overview
+- **Name**: Saad Kazi
+- **Roles**: Full Stack Developer, AI Developer, Software Developer, Prompt Engineer
+- **Bio**: Building modern web experiences, scalable applications & AI-powered solutions.
+- **Email**: saadkazi0901@gmail.com
+- **Phone**: +918788940660
+
+## Key Profiles & Links
+- **Production Link Hub**: https://saadkazi-dev.vercel.app
+- **Portfolio**: https://saadkazi.vercel.app
+- **GitHub**: https://github.com/saaadkazi
+- **LinkedIn**: https://www.linkedin.com/in/saadkazi-dev
+- **Instagram**: https://www.instagram.com/saad_kazi0001
+- **Resume**: https://saadkazi-dev.vercel.app/Resume.pdf

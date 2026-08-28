@@ -1,0 +1,16 @@
+{
+  "name": "Saad Kazi — Link Hub",
+  "short_name": "Saad Kazi",
+  "description": "Official link hub & professional profile for Saad Kazi — Full Stack & AI Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/branding/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
